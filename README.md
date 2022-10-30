@@ -18,17 +18,15 @@ Backend server using Node.js, express, dotenv, nodemon, and cors.
 
 ## Change Log
 
-10-26-2022 10:22AM EST - Application is now a functional express server connected through heroku and ready for use!
+10-26-2022 10:15AM PST - Application is now a functional express server connected through heroku and ready for use!
 
-10-26-2022 8:51 PM EST - server now has get route to weatheriq api and movieiq api
+10-27-2022 12:36 PST - server route to weatheriq api and movieiq api
 
-10-27-2022 4:22PM EST - refactored server.js into modules
 
-10-28-2022 4:40PM EST - added cache for weather.js and server.js
 
 ## Credit and Collaborations
 
-Huge Credit to Dennis Nichols, Lewis Benson, and Steven Rejdowski for helping me get caught up yesterday!
+
 
 ## Feature Tasks
 
@@ -36,38 +34,38 @@ Name of feature: Sparta
 
 Estimate of time needed to complete: 4 hours
 
-Start time: 9:30pm EST
+Start time: 9:30
 
-Finish time: 1:30am EST
+Finish time: 1:30am
 
 Actual time needed to complete: 4 hours
 
 Name of feature: Get Route to WeatherIQ and MovieIQ
 
-Estimate of time needed to complete: 4 hours
+Estimate of time needed to complete: 4 hour
 
-Start time: 4pm EST
+Start time: 4p
 
-Finish time: 8PM EST
+Finish time: 8PM
 
 Actual time needed to complete: 4 hours
 
 Name of feature: refactoring
 
-Estimate of time needed to complete: 20 minutes
+Estimate of time needed to complete: 45 minutes
 
-Start time: 3PM EST
+Start time: 3PM
 
-Finish time: 3:15PM EST
+Finish time: 3:40
 
-Actual time needed to complete: 15 minutes
+Actual time needed to complete: 35 minutes
 
 Name of feature: added cache
 
 Estimate of time needed to complete: 20 minutes
 
-Start time: 4PM EST
+Start time: 4PM 
 
-Finish time: 4:40PM EST
+Finish time: 4:40
 
 Actual time needed to complete: 40 minutes
