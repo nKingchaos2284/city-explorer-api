@@ -4,6 +4,7 @@ console.log('first server');
 
 const { response } = require('express');
 // **requires**
+console.log
 
 const express = require('express');
 require('dotenv').config();
@@ -21,7 +22,7 @@ const PORT = process.env.PORT || 3002;
 
 app.get('/', (request, response)=> {
     console.log('This is showing up in my terminal!');
-    response.status(200).send('Welcome to my server');
+    response.status(200).send('WELCOME TO THE CYBER JUNGLE!');
 });
 
 app.get('/weather', async(request, response, next) => {
